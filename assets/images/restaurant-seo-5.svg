@@ -1,0 +1,20 @@
+<svg width="328" height="148" viewBox="0 0 328 148" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="328" height="148" rx="74" fill="url(#paint0_radial_11393_7615)"/>
+<path d="M152.541 83.9992H198.001V61.7886L186.376 50.1641L152.541 83.9992Z" fill="#076AAB"/>
+<path d="M141.604 50.1641L130 61.7676V83.9992H141.933L158.686 67.2463L141.604 50.1641Z" fill="#076AAB"/>
+<path d="M163.989 61.9427L186.375 39.5576L198 51.1821V16H130V51.1609L141.604 39.5576L163.989 61.9427ZM160.25 29.277H167.75V36.7769H160.25V29.277Z" fill="#076AAB"/>
+<path d="M92.3318 57.6181L84.3638 49.6498L92.3318 41.6818L87.65 37L75 49.6498L87.65 62.2999L92.3318 57.6181Z" fill="#2A8FD2"/>
+<path d="M239.682 62.2999L252.332 49.6498L239.682 37L235 41.6818L242.968 49.6498L235 57.6181L239.682 62.2999Z" fill="#2A8FD2"/>
+<path d="M68 100H100V132H68V100Z" fill="#88D1FF"/>
+<path d="M148 100H180V132H148V100Z" fill="#D4EEFF"/>
+<path d="M188 100H220V132H188V100Z" fill="#D4EEFF"/>
+<path d="M108 100H140V132H108V100Z" fill="#D4EEFF"/>
+<path d="M228 100H260V132H228V100Z" fill="#D4EEFF"/>
+<defs>
+<radialGradient id="paint0_radial_11393_7615" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(164 74) rotate(90) scale(74 164)">
+<stop stop-color="white"/>
+<stop offset="0.5" stop-color="#F4FBFF"/>
+<stop offset="1" stop-color="#EDF8FF"/>
+</radialGradient>
+</defs>
+</svg>
